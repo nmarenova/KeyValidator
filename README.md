@@ -8,8 +8,9 @@
 4. Тестирование валидности ключей
 
 **На тестирование затрачено: 4 часа.**  
-В результате тестирования выявлен следующий дефект:
-https://github.com/nmarenova/KeyValidator/issues/1
+В результате тестирования выявлены следующие дефекты:
+1. https://github.com/nmarenova/KeyValidator/issues/1
+2. https://github.com/nmarenova/KeyValidator/issues/2
 
 **В качестве тестовых данных использовались данные:**  
 1. Инструкция по установке OpenJDK 11 https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md
