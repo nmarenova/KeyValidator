@@ -8,11 +8,8 @@
 4. Тестирование валидности ключей
 
 **На тестирование затрачено: 4 часа.**  
-В результате тестирования выявлены следующие дефекты:
-1. Валидные ключи 
-https://yadi.sk/i/8-gxUrnVHhtr8w 
-2. Невалидные ключи
-https://yadi.sk/i/oaF9obedRdSjKA
+В результате тестирования выявлены следующий дефект:
+https://github.com/nmarenova/KeyValidator/issues/1
 
 **В качестве тестовых данных использовались данные:**  
 1. Инструкция по установке OpenJDK 11 https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md
