@@ -13,9 +13,9 @@
 2. https://github.com/nmarenova/KeyValidator/issues/2
 
 **В качестве тестовых данных использовались данные:**  
-1. Инструкция по установке OpenJDK 11 https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md
+1. Инструкция по установке OpenJDK 11  https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md  
  Ожидаемый результат - установился OpenJDK 11.
-2. Руководство использования KeyValidator https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
+2. Руководство использования KeyValidator  https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md  
 Ожидаемый результат - валидные ключи валидны, невалидные ключи не валидны.
 
 **Тестирование производилось в следующем окружении:**  
